@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <rect width="600" height="800" fill="#F3F1EC"/>
+  <rect x="0" y="0" width="600" height="300" fill="#22282B"/>
+  <g fill="#F2C14E"><rect x="60" y="80" width="40" height="6"/></g>
+  <text x="60" y="160" font-family="Georgia, serif" font-size="46" fill="#FFFFFF">Press Freedom</text>
+  <text x="60" y="215" font-family="Georgia, serif" font-size="46" fill="#FFFFFF">in Bangladesh</text>
+  <text x="60" y="370" font-family="Arial, sans-serif" font-size="28" fill="#22282B">Lessons from the</text>
+  <text x="60" y="408" font-family="Arial, sans-serif" font-size="28" fill="#22282B">Digital Security Act</text>
+  <g fill="#2E6B5A">
+    <rect x="60" y="470" width="14" height="150"/><rect x="84" y="520" width="14" height="100"/><rect x="108" y="490" width="14" height="130"/><rect x="132" y="550" width="14" height="70"/><rect x="156" y="505" width="14" height="115"/>
+  </g>
+  <text x="60" y="720" font-family="Arial, sans-serif" font-size="20" fill="#6B7479">Centre for Governance Studies</text>
+  <text x="60" y="750" font-family="Arial, sans-serif" font-size="20" fill="#6B7479">Clooney Foundation for Justice, TrialWatch</text>
+</svg>

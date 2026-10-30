@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <rect width="600" height="800" fill="#1F4D40"/>
+  <g fill="none" stroke="#9FD3BE" stroke-opacity=".55" stroke-width="2">
+    <circle cx="300" cy="360" r="170"/>
+    <ellipse cx="300" cy="360" rx="70" ry="170"/>
+    <ellipse cx="300" cy="360" rx="130" ry="170"/>
+    <line x1="300" y1="190" x2="300" y2="530"/>
+    <ellipse cx="300" cy="360" rx="170" ry="55"/>
+    <ellipse cx="300" cy="360" rx="170" ry="115"/>
+    <line x1="130" y1="360" x2="470" y2="360"/>
+  </g>
+  <circle cx="420" cy="235" r="14" fill="#F2C14E"/>
+  <text x="60" y="96" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#CFE7DC" letter-spacing="1">Monthly review of international affairs</text>
+  <text x="60" y="640" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#FFFFFF">Global</text>
+  <text x="60" y="712" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#FFFFFF">Up-To-Date</text>
+  <text x="60" y="760" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#CFE7DC">Centre for Governance Studies</text>
+</svg>
